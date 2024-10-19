@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+88CLB - Thương Hiệu Cá Cược Hàng Đầu Với Hơn 1000 Sản Phẩm
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88CLB <https://88clb1.org/>`_ là một trong những thương hiệu cá cược trực tuyến hàng đầu, cung cấp đa dạng các dịch vụ cá cược thể thao và sòng bạc. Với hơn 1000 sản phẩm cá cược từ các nhà phát triển nổi tiếng như PP, AG, MG, JILI, WM, và CQ9, 88CLB cam kết mang lại trải nghiệm giải trí độc đáo cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Hoạt động hợp pháp tại Costa Rica và được cấp phép bởi PAGCOR và Isle of Man, 88CLB đảm bảo tính minh bạch và an toàn trong mọi hoạt động. 88CLB cung cấp các chương trình khuyến mãi hấp dẫn, hỗ trợ khách hàng tận tâm 24/7, và nhiều lựa chọn thanh toán tiện lợi. Với mục tiêu trở thành nhà cái hàng đầu tại châu Á-Thái Bình Dương, 88CLB đang không ngừng cải tiến hệ thống và mở rộng thị trường.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa Chỉ: 66-68 Hai Bà Trưng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh. 
 
-Contents
---------
+Phone: 0865323110. 
 
-.. toctree::
+Email: info@88clb1.org. 
 
-   usage
-   api
+Website: https://88clb1.org/ 
+
+#88clb #trangchu88clb #dangky88clb #dangnhap88clb #link88clb
